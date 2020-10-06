@@ -25,7 +25,7 @@ ul {
     padding: 0;
     list-style: none;
 }
-.bussines_solution {
+.bussines-solution {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -33,18 +33,18 @@ ul {
     height: 600px;
     background: #2F303A;
 }
-.what_we_do {
+.what-we-do {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
-.what_we_do ul {
+.what-we-do ul {
     display: flex;
     justify-content: center;
     align-items: center;
 }
-.our_team {
+.our-team {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -52,12 +52,12 @@ ul {
     height: 648px;
     background: #F5F4FA;
 }
-.our_team ul {
+.our-team ul {
     display: flex;
     justify-content: center;
     align-items: center;
 }
-.our_team ul li {
+.our-team ul li {
     display: flex;
     flex-direction: column;
     justify-content: center;
